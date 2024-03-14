@@ -1,0 +1,125 @@
+[
+    {
+        "id": "asdasdf34asda43242asd",
+        "recipeName": "Mercimek Çorbası",
+        "category": "Çorba",
+        "ingredients": [
+            "1 su bardağı kırmızı mercimek",
+            "1 adet soğan",
+            "1 adet havuç",
+            "1 adet patates",
+            "2 yemek kaşığı sıvı yağ",
+            "1 tatlı kaşığı tuz",
+            "Yarım çay kaşığı karabiber",
+            "1 tatlı kaşığı kırmızı biber",
+            "6 su bardağı su",
+            "1 limonun suyu"
+        ],
+        "instructions": [
+            "Mercimeği yıkayın ve süzün.",
+            "Soğanı doğrayın, havuç ve patatesi küçük küpler halinde kesin.",
+            "Sıvı yağı bir tencerede ısıtın, doğranmış soğanı ekleyin ve pembeleşene kadar kavurun.",
+            "Havuç ve patatesi ekleyip birkaç dakika daha kavurun.",
+            "Mercimeği ekleyin, suyu ekleyin ve kaynamaya bırakın.",
+            "Kaynadıktan sonra altını kısıp tencerenin kapağını kapatın, mercimekler iyice yumuşayana kadar pişirin.",
+            "Çorbayı blenderdan geçirin, tuz ve baharatları ekleyin.",
+            "Limon suyu ile servis yapın."
+        ],
+        "recipeTime": 30,
+        "servingSuggestion": "Mercimek çorbası, yanında taze ekmekle servis edilebilir.",
+        "image": "https://i.nefisyemektarifleri.com/2015/06/21/lokanta-usulu-suzme-mercimek-corbasi.jpg"
+    },
+    {
+        "id": "2",
+        "recipeName": "Fırında Tavuk",
+        "category": "Tavuk Yemekleri",
+        "ingredients": [
+            "500 gram tavuk göğsü",
+            "2 yemek kaşığı zeytinyağı",
+            "Tuz",
+            "Karabiber",
+            "Kırmızı biber"
+        ],
+        "instructions": "Tavuk göğsünü dilimleyin ve zeytinyağı, tuz, karabiber ve kırmızı biber ile marine edin. Ardından fırın tepsisine yerleştirin ve önceden ısıtılmış 180 derece fırında 25-30 dakika pişirin.",
+        "recipeTime": 30,
+        "servingSuggestion": "Yanında sebzeli pilav ile servis yapın.",
+        "image": "https://www.serarestaurant.com.tr/wp-content/uploads/2019/11/firin-yemekleri-firinda-tavuk.jpg"
+    },
+    {
+        "id": "3",
+        "recipeName": "Ezogelin Çorbası",
+        "category": "Çorbalar",
+        "ingredients": [
+            "1 su bardağı kırmızı mercimek",
+            "1 adet soğan",
+            "2 diş sarımsak",
+            "1 havuç",
+            "1 patates",
+            "1 yemek kaşığı un",
+            "6 su bardağı su",
+            "Tuz",
+            "Karabiber",
+            "Kırmızı pul biber"
+        ],
+        "instructions": "Mercimeği yıkayın. Soğanı ve sarımsağı ince ince doğrayın. Havucu ve patatesi küçük küpler halinde kesin. Bir tencerede yağı kızdırın ve unu ekleyip kokusu çıkana kadar kavurun. Doğranmış sebzeleri ekleyip kavurmaya devam edin. Mercimeği ekleyin ve suyu ilave edin. Tuz ve baharatları ekleyip mercimekler yumuşayana kadar pişirin. Blendırdan geçirip sıcak servis yapın.",
+        "recipeTime": 40,
+        "servingSuggestion": "Üzerine taze nane yaprakları ve limon dilimleriyle servis yapın.",
+        "image": "https://image.hurimg.com/i/hurriyet/75/0x0/5faa8486c03c0e1cc0110bae.jpg"
+    },
+    {
+        "id": "caskdbu73gbyb",
+        "recipeName": "Ispanaklı Peynirli Börek",
+        "category": "Hamur İşleri",
+        "ingredients": [
+            "Yufka",
+            "300 gram ıspanak",
+            "150 gram beyaz peynir",
+            "2 adet yumurta",
+            "1 su bardağı süt",
+            "1 su bardağı sıvı yağ",
+            "Tuz"
+        ],
+        "instructions": "Ispanakları yıkayıp doğrayın ve sıvı yağ ile kavurun. Soğuduktan sonra içine ezilmiş beyaz peyniri ekleyin. Yumurtaları ve sütü çırpın. Yufkaları tezgaha serin, üzerine süt ve yumurta karışımından sürün. Ardından ıspanaklı harçtan koyup rulo şeklinde sarın. Yağlanmış fırın tepsisine yerleştirin ve üzerine yumurta sarısı sürün. Önceden ısıtılmış 180 derece fırında kızarana kadar pişirin.",
+        "recipeTime": 50,
+        "servingSuggestion": "Çay saatlerinde veya kahvaltılarda servis yapabilirsiniz.",
+        "image": "https://i.pinimg.com/originals/a4/cc/e4/a4cce490f154156796b12427923502e5.jpg"
+    },
+    {
+        "id": "4",
+        "recipeName": "Zeytinyağlı Enginar",
+        "category": "Zeytinyağlılar",
+        "ingredients": [
+            "6 adet enginar",
+            "1 adet limon",
+            "1 su bardağı zeytinyağı",
+            "1 yemek kaşığı şeker",
+            "Tuz"
+        ],
+        "instructions": "Enginarları temizleyip limonlu suya koyun. Bir tencerede su kaynatın ve içine limon suyu sıkarak enginarları ekleyin. 15 dakika kadar haşlayın. Süzüp soğumaya bırakın. Enginarların ortasını açın ve çanak şekli verin. Bir kasede zeytinyağı, limon suyu, şeker ve tuzu karıştırın. Bu karışımla enginarların içini doldurun. Tencereye dizin ve üzerine 1 su bardağı su ilave edip kısık ateşte 20-25 dakika pişirin.",
+        "recipeTime": 60,
+        "servingSuggestion": "Servis yapmadan önce soğumasını bekleyin ve üzerine doğranmış maydanoz ile süsleyin.",
+        "image": "https://cdn.yemek.com/mnresize/940/940/uploads/2015/03/zeytinyagli-enginar-yemekcom.jpg"
+    },
+    {
+        "id": "5",
+        "recipeName": "Fırında Sebzeli Somon",
+        "category": "Balık Yemekleri",
+        "ingredients": [
+            "4 dilim somon balığı",
+            "2 adet kabak",
+            "2 adet havuç",
+            "1 adet patates",
+            "1 adet kırmızı biber",
+            "1 adet sarı biber",
+            "1 adet limon",
+            "2 yemek kaşığı zeytinyağı",
+            "Tuz",
+            "Karabiber",
+            "Kekik"
+        ],
+        "instructions": "Fırın tepsisine yağlı kağıt serin. Somon balıklarını yıkayın ve limon suyu ile marine edin. Sebzeleri dilimleyin. Somonların üzerine sebzeleri yerleştirin. Zeytinyağı gezdirin, tuz, karabiber ve kekik serpin. Önceden ısıtılmış 180 derece fırında 20-25 dakika pişirin.",
+        "recipeTime": 35,
+        "servingSuggestion": "Limon dilimleri ve taze kekik ile servis yapın.",
+        "image": "https://diyetlif.com.tr/blog/wp-content/uploads/2022/05/firinda-sebzeli-somon.jpg"
+    }
+]
